@@ -1,0 +1,3 @@
+## About Me ##
+
+My name is Danny Graunke and I am a Junior studying Aerospace Engineering at Iowa State University. I hope to use what I learn at Iowa State to help design cleaner, smarter, and safer planes some day. Outside of class, I like to hangout with friends and family, watch movies, spend time with my dogs, play or watch sports, or listen to music. I love to go to concerts and make it my goal to go to at least two every year. I hope to learn more about git, Github, and get exposure to different coding languages. I know that in Aerospace coding is heavily relied on, so the skills I learn now will help me down the road.
